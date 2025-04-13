@@ -3,7 +3,7 @@ A port of the MAUI app to python environment for better accessibility. Once MAUI
 
 ## Usage:
 - replace `TEST_URL` variable with your desired link!
-- chanche to `ydlv_opts` to `ydla_opts` for audio only!
+- change `ydlv_opts` to `ydla_opts` in appropriate function call for audio only!
 
 ## Disclaimer:
 - Use responsibly - Read documentation in-app and respect the content of others.
