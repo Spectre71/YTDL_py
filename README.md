@@ -6,4 +6,4 @@ A port of the MAUI app to python environment for better accessibility. Once MAUI
 - chanche to `ydlv_opts` to `ydla_opts` for audio only!
 
 ## Disclaimer:
-- Use responsibly - Read documentation in-app and respect the other's content.
+- Use responsibly - Read documentation in-app and respect the content of others.
